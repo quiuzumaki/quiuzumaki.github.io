@@ -1,1 +1,1 @@
-# quiuzumaki.github.io
+# Welcome to my blogs
