@@ -1,0 +1,17 @@
+## Template › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md#setting-author-url
+# -------------------------------------
+# {author_id}:
+#   name: {full name}
+#   twitter: {twitter_of_author}
+#   url: {homepage_of_author}
+# -------------------------------------
+
+cotes:
+  name: QuiUzumaki (QuiDo)
+  twitter: Qu1U2umak1
+  url: https://twitter.com/Qu1U2umak1
+
+# sille_bille:
+#   name: Dinesh Prasanth Moluguwan Krishnamoorthy
+#   twitter: dinesh_MKD
+#   url: https://github.com/SilleBille/
