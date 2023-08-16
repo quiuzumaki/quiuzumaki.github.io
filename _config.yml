@@ -74,7 +74,7 @@ google_analytics:
 theme_mode:   # [light|dark]
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://github.com/phuquido1002bk.png"
+avatar: "/assets/avatar.jpg"
 
 # boolean type, the global switch for ToC in posts.
 toc: true
