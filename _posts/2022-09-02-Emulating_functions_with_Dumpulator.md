@@ -3,8 +3,8 @@ title: "Emulating functions with Dumpulator"
 draft: false
 description: "Emulating functions to decrypt strings and flag in Flare-On 2022"
 date: 2023-09-02
-tags: ["Dumpulator", "Flare-On"]
-categories: ["Study"]
+tags: Dumpulator, Flare-On
+categories: Study
 ---
 Table of contents
 - [1. Overview](#1-overview)
